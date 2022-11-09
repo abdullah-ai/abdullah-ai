@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 My name is Younis and I'm a Graduate Data Science student from Egypt, holding a bachelor's degree in finance and my diploma major is in Data Science.
+
 Here's some info about me!
 
 ### ⚡ Work experience:
@@ -17,7 +19,9 @@ Undergraduate Teaching Assistant at Ain Shams University -Statistics and Probabi
 ### 🌱 Interests:
 
 Data Science.
+
 Creating a tech startup in CV industry.
+
 💬 Reach me by email or LinkedIn! abdullah.hosam13@gmail.com | https://www.linkedin.com/in/abdullah-younis-7019831a2/
 
 <!---
